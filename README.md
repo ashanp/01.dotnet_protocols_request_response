@@ -4,6 +4,8 @@ This tutorial showns below topics
 
    <img width="646" alt="image" src="https://github.com/user-attachments/assets/9213bf0d-dfcd-4728-aa7d-e735a6e5d2e9">
 
+   app.Map**Get**("/", () => "Hello World!");![image](https://github.com/user-attachments/assets/d2da8fa9-e4ae-414f-8e83-bf16e1d216fa)
+
    
 4. different types of requests
    
