@@ -1,7 +1,11 @@
 This tutorial showns below topics
 1. http protocol
 2. request and responses
-3. different types of requests
+
+   <img width="646" alt="image" src="https://github.com/user-attachments/assets/9213bf0d-dfcd-4728-aa7d-e735a6e5d2e9">
+
+   
+4. different types of requests
    
    <img width="397" alt="image" src="https://github.com/user-attachments/assets/e5f35bef-8bf9-480f-9440-335e93840788">
    
